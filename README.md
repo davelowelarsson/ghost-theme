@@ -1,3 +1,14 @@
+# Saltast
+
+## development
+
+Start by running ghost start, this enables a local development environmenmt with sqlite and a ghost server running
+
+To start developing the theme you need to start by install all the dependancies with 
+`yarn install`
+and then run watchers for all the files with 
+`yarn dev`
+
 # Casper
 
 The default theme for [Ghost](http://github.com/tryghost/ghost/). This is the latest development version of Casper! If you're just looking to download the latest release, head over to the [releases](https://github.com/TryGhost/Casper/releases) page.
