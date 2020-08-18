@@ -9,8 +9,6 @@ To start developing the theme you need to start by install all the dependancies 
 and then run watchers for all the files with 
 `yarn dev`
 
-# Casper
-
 The default theme for [Ghost](http://github.com/tryghost/ghost/). This is the latest development version of Casper! If you're just looking to download the latest release, head over to the [releases](https://github.com/TryGhost/Casper/releases) page.
 
 &nbsp;
@@ -65,8 +63,7 @@ yarn zip
 # PostCSS Features Used
 
 - Autoprefixer - Don't worry about writing browser prefixes of any kind, it's all done automatically with support for the latest 2 major versions of every browser.
-- Variables - Simple pure CSS variables
-- [Color Function](https://github.com/postcss/postcss-color-function)
+- [Color Mod](https://github.com/jonathantneal/postcss-color-mod-function)
 
 
 # SVG Icons

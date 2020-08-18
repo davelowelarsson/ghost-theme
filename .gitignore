@@ -6,8 +6,6 @@ b-cov
 *.out
 *.pid
 *.gz
-*.zip
-*.css
 
 pids
 logs
@@ -15,10 +13,16 @@ results
 
 npm-debug.log
 node_modules
-assets/css/*
+package-lock.json
 
 .idea/*
 *.iml
 projectFilesBackup
 
 .DS_Store
+
+dist/
+
+config.json
+changelog.md
+changelog.md.bk
