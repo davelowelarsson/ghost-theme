@@ -3,15 +3,15 @@
 
 :root {
     /* Colours */
-    --blue: #3eb0ef;
+    --blue: #12a3f2;
     --green: #a4d037;
     --purple: #ad26b4;
     --yellow: #fecd35;
     --red: #f05230;
-    --darkgrey: #15171A;
-    --midgrey: #738a94;
-    --lightgrey: #c5d2d9;
-    --whitegrey: #e5eff5;
+    --darkgrey: #3a3c41;
+    --midgrey: #96b3c0;
+    --lightgrey: #cadae3;
+    --whitegrey: #e8f2f9;
     --pink: #fa3a57;
     --brown: #a3821a;
     --darkmode: color-mod(var(--darkgrey) l(+2%));
